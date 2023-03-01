@@ -1,8 +1,8 @@
 import 'dart:math';
 
 class GetCountryPhoneCount {
-  GetCountryPhoneCount() {
-    print(getCountryPhoneCount(14).toString());
+  GetCountryPhoneCount(int code) {
+    print(getCountryPhoneCount(code).toString());
   }
 }
 

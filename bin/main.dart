@@ -1,5 +1,5 @@
-import 'get_phone_count.dart';
-
+import 'classes/filter_example.dart';
 void main() {
-  GetCountryPhoneCount(47);
+  //GetCountryPhoneCount(47);
+  FilterExample.listCars();
 }
